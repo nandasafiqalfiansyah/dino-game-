@@ -47,4 +47,4 @@ git clone https://github.com/nandasafiqalfiansyah/dino-game-.git
 This project is **free to use** and does not contains any license.
 
 ### Tool
-noting
+
